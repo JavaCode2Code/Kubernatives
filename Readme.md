@@ -41,3 +41,5 @@ kubectl delete deploy k8s-deployment
 kubectl delete pod <pod-name>
 
 kubectl delete service <service-name>
+creating dashbord:
+https://kubernetes.io/docs/tasks/access-application-cluster/
